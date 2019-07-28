@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Spots -->
+
+  <TeachingSpot.label>Учительский стол</TeachingSpot.label>
+  <TeachingSpot.description>Обозначает место, где будут проводиться уроки.</TeachingSpot.description>
+  <TeachingSpot_Blueprint.label>Учительский стол (blueprint)</TeachingSpot_Blueprint.label>
+  <TeachingSpot_Frame.label>Учительский стол (building)</TeachingSpot_Frame.label>
+  <TeachingSpot_Frame.description>Обозначает место, где будут проводиться уроки.</TeachingSpot_Frame.description>
+
+  <GlobeCL.label>Глобус RimWorld</GlobeCL.label>
+  <GlobeCL.description>Размещение этого глобуса в классе повысит эффективность обучения.</GlobeCL.description>
+  <GlobeCL_Blueprint.label>Глобус RimWorld (blueprint)</GlobeCL_Blueprint.label>
+  <GlobeCL_Blueprint_Install.label>Глобус RimWorld (blueprint)</GlobeCL_Blueprint_Install.label>
+  <GlobeCL_Frame.label>Глобус RimWorld (building)</GlobeCL_Frame.label>
+  <GlobeCL_Frame.description>Размещение этого глобуса в классе повысит эффективность обучения.</GlobeCL_Frame.description>
+
+  <ChalkboardCL.label>Классная доска</ChalkboardCL.label>
+  <ChalkboardCL.description>Размещение этой классной доски в классе повысит эффективность обучения.</ChalkboardCL.description>
+  <ChalkboardCL_Blueprint.label>Классная доска (blueprint)</ChalkboardCL_Blueprint.label>
+  <ChalkboardCL_Blueprint_Install.label>Классная доска (blueprint)</ChalkboardCL_Blueprint_Install.label>
+  <ChalkboardCL_Frame.label>Классная доска (building)</ChalkboardCL_Frame.label>
+  <ChalkboardCL_Frame.description>Размещение этой классной доски в классе повысит эффективность обучения.</ChalkboardCL_Frame.description>
+
+  <BallotBox.label>Избирательная урна</BallotBox.label>
+  <BallotBox.description>Выборы будут проходить вокруг этой урны для бюллетеней. Постройте её в безопасном месте, предпочтительно в помещении.</BallotBox.description>
+  <BallotBox_Blueprint.label>Избирательная урна (blueprint)</BallotBox_Blueprint.label>
+  <BallotBox_Frame.label>Избирательная урна (building)</BallotBox_Frame.label>
+  <BallotBox_Frame.description>Выборы будут проходить вокруг этой урны для бюллетеней. Постройте её в безопасном месте, предпочтительно в помещении.</BallotBox_Frame.description>
+
+
+</LanguageData>

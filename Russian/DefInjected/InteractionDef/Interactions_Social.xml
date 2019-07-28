@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Random social interactions -->
+
+  <InspirationalTalk.label>Вдохновенный разговор</InspirationalTalk.label>
+  <InspirationalTalk.logRulesInitiator.rulesStrings.0>logentry->Inspired [other_nameShortIndef].</InspirationalTalk.logRulesInitiator.rulesStrings.0>
+  <InspirationalTalk.logRulesRecipient.rulesStrings.0>logentry->Was inspired by [other_nameShortIndef].</InspirationalTalk.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

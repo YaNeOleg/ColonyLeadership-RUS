@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- EXAMPLES -->
+
+<LeadershipModTab.label>Лидерство</LeadershipTab>
+<LeadershipModTab.description>Вещи связанные с модом Колония Лидерство.</LeadershipModTab.description>
+
+<LeaderTab.label>Лидерство</LeaderTab.label>
+<LeaderTab.description>Управление лидерами колоний.</LeaderTab.description>
+
+<leader1.label>Лидер - Ботаник</leader1.label>
+<leader2.label>Лидер - Воин</leader2.label>
+<leader3.label>Лидер - Учёный</leader3.label>
+<leader4.label>Лидер - Строитель</leader4.label>
+
+</LanguageData>

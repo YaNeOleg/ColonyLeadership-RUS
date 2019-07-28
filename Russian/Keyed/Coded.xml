@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ELECTIONS -->
+
+  <Election>Выборы</Election>
+  <ElectionGathering>Колонисты собираются, чтобы проголосовать за нового лидера(ов).</ElectionGathering>
+  <ElectionFinished>Выборы закончились.</ElectionFinished>
+  <ElectionNoAttendees>Никто не присутствовал на выборах.</ElectionNoAttendees>
+  <AttendingElectionDesc>Посещение выборов</AttendingElectionDesc>
+
+  <ElectionFail_NoAbleLeader>Пытался начать выборы, но ни один колонист не может быть лидером. Помните, что социальные навыки необходимы.</ElectionFail_NoAbleLeader>
+  <ElectionFail_ColonistsNotFound>Не удалось найти колониста, чтобы начать выборы. Это может быть вызвано: спящими колонистами, назначенными на нерадостные времена, голодом или проблемами со здоровьем.</ElectionFail_ColonistsNotFound>
+  <ElectionFail_NoDemocracy>Выборы не произойдут, потому что в этой колонии нет демократии.</ElectionFail_NoDemocracy>
+  <ElectionFail_Disaster>Выборы лидера отменены! Произошло что-то плохое.</ElectionFail_Disaster>
+
+  <BallotDescription>Выборы произойдут по дням: 1, 7 и 15.\nОни случаются только при необходимости.\nПоследние выборы: </BallotDescription>
+  <BallotDescriptionDisabled>Выборы не произойдут по дням: 1, 7 и 15.\nОни случаются только при необходимости.\nПоследние выборы: </BallotDescriptionDisabled>
+
+  <EnableElections>Включить выборы</EnableElections>
+  <EnableElectionsDesc>Если это отключено, то выборы не состоятся.</EnableElectionsDesc>
+
+  <NoColonistAbleLeader>Ни один колонист не может быть лидером.</NoColonistAbleLeader>
+
+
+
+
+  <!-- LEADERSHIP -->
+  <LeaderChosen>{0} был выбран {1}.</LeaderChosen>
+  <LeaderElected>{0} был избран {1}.</LeaderElected>
+  <NewLeaderLetterTitle>Новый {0}</NewLeaderLetterTitle>
+
+
+  <TimeLeftL>Осталось времени: </TimeLeftL>
+  <LeaderDied>{0} {1} умер.</LeaderDied>
+
+  <LeaderEndLetter>Лидерство закончилось</LeaderEndLetter>
+  <LeaderEndLetterDesc>{0} больше не лидер.</LeaderEndLetterDesc>
+
+  <LeaderEndLetterArrested>Лидер арестован</LeaderEndLetterArrested>
+  <LeaderEndLetterDescArrested>{0} больше не лидер и был арестован восставшими колонистами.</LeaderEndLetterDescArrested>
+
+  <LeaderLevel>Уровень лидера:</LeaderLevel>
+  <AverageOpinion>Среднее мнение обо мне:</AverageOpinion>
+
+  <!-- TEACHING -->
+
+  <TeacherUnavailable>Учитель недоступен.</TeacherUnavailable>
+  <TeacherUnavailableNamed>Учитель, {0}, недоступен.</TeacherUnavailableNamed>
+
+  <LessonGathering>{0} собирается на занятие. {1} будет учителем. Связанные навыки: </LessonGathering>
+  <MustWaitForLesson>Колония должна ждать 24 часа, прежде чем собираться на новое занятие.</MustWaitForLesson>
+  <NoTeacherSelected>Учитель не выбран. Попытайтесь снова.</NoTeacherSelected>
+  <TeacherDrafted>Учитель призван. Попытайтесь снова.</TeacherDrafted>
+  <TeacherDownedDead>Учитель упал или мёртв.</TeacherDownedDead>
+  <TeacherTableReserved>Учебный стол зарезервирован чем-то другим. Попробуйте ещё раз.</TeacherTableReserved>
+
+  <TeachingDesc>Обучение.</TeachingDesc>
+  <FinishLessonDesc>Заканчивать.</FinishLessonDesc>
+  <WaitingDesc>Ожидание начала занятия.</WaitingDesc>
+
+  <LessonFinished>Занятие закончено.</LessonFinished>
+  <SkillSet1>Фермерство, Медицина или Животноводство.</SkillSet1>
+  <SkillSet2>Стрельба или Ближний бой.</SkillSet2>
+  <SkillSet3>Строительство, Ремесло или Художество.</SkillSet3>
+  <SkillSet4>Исследование.</SkillSet4>
+
+  <MustHaveSkill>Выбранный учитель должен иметь хотя бы уровень {0} в любом из этих навыков: </MustHaveSkill>
+  <OnlyTeachIfSkill>"Учитель будет обучать навыку, только если уровень выше {0}. Навыки, связанные с этим учителем: </OnlyTeachIfSkill>
+
+  <!-- BUILDINGS -->
+
+  <OnlyOnePerColony>Только один {0} разрешено в каждой колонии</OnlyOnePerColony>
+
+  <!-- INCIDENTS -->
+
+  <Rebellion>Протест</Rebellion>
+  <RebelLetter>Протестующий!</RebelLetter>
+  <RebelLetterDesc>{0} избранный, чтобы арестовать нежелательного лидера. ОН арестует лидера, когда это возможно.</RebelLetterDesc>
+
+  <RebellionLetter>Протест!</RebellionLetter>
+  <RebellionLetterDesc>{0} ненавидят в колонии, и другие колонисты хотят, чтобы его лидерство закончилось.</RebellionLetterDesc>
+
+  <UnpopularM>{0}, лидер колонии, становится непопулярным. Если ОН по-прежнему не нравится другим колонистам, они могут начать протестовать, чтобы лишить его власти."</UnpopularM>
+  <ResignLetterText>Колонист подходит к лидеру и просит ЕГО отставки. Если ОН примет, ОН прекратит СВОЙ мандат и не сможет быть избран какое-то время.</ResignLetterText>
+  <OnlyOnce>Эта опция будет предоставлена только один раз. Тщательно выбирайте.</OnlyOnce>
+  <Resign>Уходить в отставку</Resign>
+  <DontResign>Не уходить в отставку.</DontResign>
+  <ResignationProposal>Предложение об отставке</ResignationProposal>
+
+
+  <!-- DIALOGS -->
+
+  <LeadershipTab>Лидерство</LeadershipTab>
+  <ChooseLeader>Выберите лидера, которого вы хотите навязать своим колонистам из списка ниже:</ChooseLeader>
+  <NoneL>Никто</NoneL>
+  <ChooseLeader_NoAbleColonists>Никакие колонисты не могут быть лидерами. Они не могут быть делать социальную работу.</ChooseLeader_NoAbleColonists>
+  <ChooseGov>Выберите тип правительства, который будет иметь ваша колония:</ChooseGov>
+
+  <Schedule>График</Schedule>
+  <LessonSchedule>График занятий</LessonSchedule>
+  <ScheduleText>Назначьте роли учителей лидерам с помощью кнопок ниже.\nНажмите на дни, чтобы переключать учителей.\nЖелтый означает, что будет назначен случайный лидер.</ScheduleText>
+  <SeasonDays>Дни сезона:</SeasonDays>
+  <RedTeacher>Красный учитель: </RedTeacher>
+  <BlueTeacher>Синий учитель: </BlueTeacher>
+  <LessonStart>Начало занятий: </LessonStart>
+  <IgnoreList>Список Игнорирования</IgnoreList>
+  <IgnoreLectures>Выберите колонистов, которые не будут посещать лекции:</IgnoreLectures>
+
+  <SetDictator>Выберите Диктатора</SetDictator>
+  <BuildBallotBox>Постройте урну для голосования, чтобы колонисты могли организовывать выборы, чтобы выбрать новых лидеров.</BuildBallotBox>
+  <AverageOpinionAbout>Среднее мнение об этом лидере: </AverageOpinionAbout>
+  <UnpopularLeader>ВНИМАНИЕ: Этот лидер очень непопулярен. Колонисты могут начать протестовать и, возможно, арестовать этого лидера!</UnpopularLeader>
+  <UnlikedLeader>ВНИМАНИЕ: Этот лидер не очень нравится колонистам.</UnlikedLeader>
+
+  <!-- GOV TYPES -->
+  <Dictatorship>Диктатура</Dictatorship>
+  <DictatorshipDesc>Колонией будет управлять один выбранный вами лидер. Лидерство заканчивается, когда диктатор умирает.</DictatorshipDesc>
+  <Dictator>Диктатор</Dictator>
+
+  <Democracy>Демократия</Democracy>
+  <DemocracyDesc>Колонисты будут голосовать за своих лидеров. Мандат для каждого лидерства составляет 1 год.</DemocracyDesc>
+  <Leader>Лидер</Leader>
+
+</LanguageData>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LessonPositive.stages.0.label>Узнал что-то новое</LessonPositive.stages.0.label>
+  <LessonPositive.stages.0.description>Мне понравилось сегодняшнее занятие.</LessonPositive.stages.0.description>
+
+  <LessonNegative.stages.0.label>Плохой урок</LessonNegative.stages.0.label>
+  <LessonNegative.stages.0.description>Мне не понравилось сегодняшнее занятие.</LessonNegative.stages.0.description>
+
+  <TaughtCL.stages.0.label>Обучал других</TaughtCL.stages.0.label>
+  <TaughtCL.stages.0.description>Приятно чему-то обучать других.</TaughtCL.stages.0.description>
+
+  <AttendedElection.stages.0.label>Участие в выборах</AttendedElection.stages.0.label>
+  <AttendedElection.stages.0.description>Я присутствовал на выборах, которые мы провели. Я надеюсь, что мы проголосовали правильно.</AttendedElection.stages.0.description>
+
+  <LeaderUnliked.stages.0.label>Не понравилось</LeaderUnliked.stages.0.label>
+  <LeaderUnliked.stages.0.description>Мне здесь не нравится...</LeaderUnliked.stages.0.description>
+  <LeaderUnliked.stages.1.label>Ненависть</LeaderUnliked.stages.1.label>
+  <LeaderUnliked.stages.1.description>Люди здесь ненавидят меня!</LeaderUnliked.stages.1.description>
+
+  <ElectedLeader.stages.0.label>Избран</ElectedLeader.stages.0.label>
+  <ElectedLeader.stages.0.description>Колония проголосовала за то, чтобы я был лидером. Я горжусь!</ElectedLeader.stages.0.description>
+
+  <ElectedLeaderJealous.stages.0.label>Завидую новому лидеру</ElectedLeaderJealous.stages.0.label>
+  <ElectedLeaderJealous.stages.0.description>Я хотел быть новым лидером. Это нечестно.</ElectedLeaderJealous.stages.0.description>
+
+  <LeaderEnd.stages.0.label>Лидерство закончилось</LeaderEnd.stages.0.label>
+  <LeaderEnd.stages.0.description>Я буду скучать по преимуществам быть лидером.</LeaderEnd.stages.0.description>
+
+  <LeaderArrested.stages.0.label>Лидерство закончилось силой</LeaderArrested.stages.0.label>
+  <LeaderArrested.stages.0.description>Что они о себе возомнили? Это возмутительно!</LeaderArrested.stages.0.description>
+
+  <LeaderArrestedColonist.stages.0.label>Лидер арестован</LeaderArrestedColonist.stages.0.label>
+  <LeaderArrestedColonist.stages.0.description>К счастью, лидер, которого все ненавидели, был нейтрализован.</LeaderArrestedColonist.stages.0.description>
+
+  <RivalLeader.stages.0.label>Соперник избран</RivalLeader.stages.0.label>
+  <RivalLeader.stages.0.description>Мой соперник теперь лидер. Отлично.</RivalLeader.stages.0.description>
+
+  <InspiratedL.stages.0.label>Вдохновленный лидером {0}</InspiratedL.stages.0.label>
+  <InspiratedL.stages.0.description>Лидер вдохновил меня. Я чувствую мотивацию.</InspiratedL.stages.0.description>
+
+  <InspiratedLI.stages.0.label>Вдохновенный {0}</InspiratedLI.stages.0.label>
+  <InspiratedLI.stages.0.description>Всегда приятно вдохновлять кого-то.</InspiratedLI.stages.0.description>
+
+  <LeaderDied.stages.0.label>Лидер {0} умер</LeaderDied.stages.0.label>
+  <LeaderDied.stages.0.description>Такой хороший лидер. Будем скучать.</LeaderDied.stages.0.description>
+
+  <LeaderDiedRival.stages.0.label>Лидер {0} умер (соперник)</LeaderDiedRival.stages.0.label>
+  <LeaderDiedRival.stages.0.description>Давно пора было избавится от него.</LeaderDiedRival.stages.0.description>
+
+
+</LanguageData>

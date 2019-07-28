@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <leaderExpired.label>Бывший Лидер</leaderExpired.label>
+
+  <leader1.label>Лидер - Ботаник</leader1.label>
+  <leader1.stages.0.label>Уровень 1</leader1.stages.0.label>
+  <leader1.stages.1.label>Уровень 2</leader1.stages.1.label>
+  <leader1.stages.2.label>Уровень 3</leader1.stages.2.label>
+
+  <leader2.label>Лидер - Воин</leader2.label>
+  <leader2.stages.0.label>Уровень 1</leader2.stages.0.label>
+  <leader2.stages.1.label>Уровень 2</leader2.stages.1.label>
+  <leader2.stages.2.label>Уровень 3</leader2.stages.2.label>
+
+  <leader3.label>Лидер - Строитель</leader3.label>
+  <leader3.stages.0.label>Уровень 1</leader3.stages.0.label>
+  <leader3.stages.1.label>Уровень 2</leader3.stages.1.label>
+  <leader3.stages.2.label>Уровень 3</leader3.stages.2.label>
+
+  <leader4.label>Лидер - Учёный</leader4.label>
+  <leader4.stages.0.label>Уровень 1</leader4.stages.0.label>
+  <leader4.stages.1.label>Уровень 2</leader4.stages.1.label>
+  <leader4.stages.2.label>Уровень 3</leader4.stages.2.label>
+
+
+</LanguageData>
